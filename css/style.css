@@ -5,7 +5,6 @@ body {
 }
 hr {
     border: 2px solid #7d97ad;
-    /*height: 20px;*/
 }
 .text-light {
     color: #7d97ad;
@@ -17,5 +16,8 @@ hr {
     font-size: 50px;
 }
 .logo {
-    margin-top: 20px;
+    margin-top: 15px;
+    margin-left: -20px;
+    width: 125px;
+    height: 100px;
 }
