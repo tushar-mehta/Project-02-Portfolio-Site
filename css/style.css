@@ -3,15 +3,19 @@ body {
     color: #2d3c49;
     font-weight: 300;
 }
+
 hr {
     border: 2px solid #7d97ad;
 }
+
 .text-light {
     color: #7d97ad;
 }
+
 .text-thin {
     font-weight: 100;
 }
+
 .biggest-text {
     font-size: 50px;
 }
