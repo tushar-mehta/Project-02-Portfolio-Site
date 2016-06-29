@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto Mono';
+    color: #2d3c49;
+    font-weight: 300;
+}
+hr {
+    border: 2px solid #7d97ad;
+    /*height: 20px;*/
+}
+.text-light {
+    color: #7d97ad;
+}
+.text-thin {
+    font-weight: 100;
+}
+.biggest-text {
+    font-size: 50px;
+}
+.logo {
+    margin-top: 20px;
+}
