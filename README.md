@@ -13,3 +13,6 @@ Open `index.html` file in web browser.
 * `index.html` files creates main structure of the website using a bootstrap framework.
 * This HTML file was created based on box design principle.
 * `style.css` contains specific style attribute to apply font style, color, and size.
+
+## Demo
+![sample demo screen](img/demo.jpg)
