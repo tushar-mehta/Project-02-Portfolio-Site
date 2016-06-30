@@ -19,9 +19,9 @@ hr {
 .biggest-text {
     font-size: 50px;
 }
+
 .logo {
-    margin-top: 15px;
-    margin-left: -20px;
-    width: 125px;
-    height: 100px;
+    margin-top: 25px;
+    width: 75px;
+    height: 75px;
 }
